@@ -8,9 +8,9 @@ Exploring Machine Learing & Deep Learining
 
 #Tool & Technologies:
 
--Python .
+- Python .
 
--Jupyter Notebook , Google Colab.
+- Jupyter Notebook , Google Colab.
 
 - Git & GitHub .
   
