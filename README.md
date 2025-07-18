@@ -1,16 +1,18 @@
-## Hi there 👋
+#Hello, I'm Reem 👋
 
-<!--
-**Reem-Rashed/Reem-Rashed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently Studying **Data Science & Artificial Intelligence**👩‍💻
 
-Here are some ideas to get you started:
+Learning and practicing Python every day 🐍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring Machine Learing & Deep Learining 
+
+#Tool & Technologies:
+-Python .
+-Jupyter Notebook , Google Colab.
+- Git & GitHub .
+- VS Coda.
+  #About Me
+  Still growing , still learning , always improving.
+
+#Contact Me 
+GitHup:[githup.com/Reem-Rashed](https://github.com/Reem-Rashed)
