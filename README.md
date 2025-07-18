@@ -7,9 +7,13 @@ Learning and practicing Python every day 🐍
 Exploring Machine Learing & Deep Learining 
 
 #Tool & Technologies:
+
 -Python .
+
 -Jupyter Notebook , Google Colab.
+
 - Git & GitHub .
+- 
 - VS Coda.
   
   #About Me
