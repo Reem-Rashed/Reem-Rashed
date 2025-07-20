@@ -1,8 +1,8 @@
-#Hello, I'm Reem 👋
+#Hello, I'm Reem 
 
-Currently Studying **Data Science & Artificial Intelligence**👩‍💻
+Currently Studying **Data Science & Artificial Intelligence**
 
-Learning and practicing Python every day 🐍
+Learning and practicing Python every day 
 
 Exploring Machine Learing & Deep Learining 
 
